@@ -33,7 +33,8 @@ MacOS运行方法：
 ### （6）若wokwi页面硬件无变化或响应慢，刷新页面重新运行。
 
 <img width="648" height="448" alt="image" src="https://github.com/user-attachments/assets/748dceea-598b-4ad4-928b-61d2631c4382" />
-<img width="2539" height="1374" alt="image" src="https://github.com/user-attachments/assets/47c11d30-c8e2-4fdf-aed9-fc3508c63887" />
+<img width="2539" height="1374" alt="599233390-47c11d30-c8e2-4fdf-aed9-fc3508c63887" src="https://github.com/user-attachments/assets/cefac8d4-f4b1-42ab-acf4-77617c17551d" />
+
 
 ### 技术栈
 MacOS版： Python + Google MediaPipe (AI三维人脸网格) + OpenCV (本地图像渲染) + MQTT (物联网通信)
