@@ -5,7 +5,11 @@
 > 运行条件：有摄像头的windows 或 Mac电脑，且可以快乐上网
 ### （1）快乐上网，打开已做好的wokwi硬件仿真网页
 https://wokwi.com/projects/465152177007070209
+<img width="2556" height="1283" alt="image" src="https://github.com/user-attachments/assets/f23119e0-c5fe-406b-bf94-caebc987ca08" />
+
 ### （2）点击wokwi仿真页面的开始按钮，等待虚拟wifi完成连接
+<img width="248" height="163" alt="image" src="https://github.com/user-attachments/assets/2e3d566c-e288-4678-9d6c-e54df7d88964" />
+
 ### （3）下载已做好的情绪识别软件：
 https://github.com/oDumbledoreArmyo/Intelligent-Perception-Technology-Hardware-Design/tree/main
 > Windows电脑使用：情绪识别软件/youhappyIhappy-windows.zip
@@ -25,5 +29,15 @@ MacOS运行方法：
 * 再次双击brain_new文件，授权摄像头权限，关闭终端窗口；
 * 再次双击brain_new文件，出现摄像头拍摄窗口，且终端输出实时情绪，即成功。
 ### （5）对摄像头做出不同表情，观察wokwi仿真页面硬件的变化；
+软件支持三种表情识别：快乐（使用嘴角位置判定）、中立、悲伤（为方便测试，使用张嘴程度判定）
 ### （6）若wokwi页面硬件无变化或响应慢，刷新页面重新运行。
 
+<img width="648" height="448" alt="image" src="https://github.com/user-attachments/assets/748dceea-598b-4ad4-928b-61d2631c4382" />
+<img width="2539" height="1374" alt="image" src="https://github.com/user-attachments/assets/47c11d30-c8e2-4fdf-aed9-fc3508c63887" />
+
+### 技术栈
+MacOS版： Python + Google MediaPipe (AI三维人脸网格) + OpenCV (本地图像渲染) + MQTT (物联网通信)
+
+Windows版: Python + OpenCV Haar (传统特征级联识别人脸/微笑) + MQTT
+
+如需修改源码，请修改brain_new.py文件，并重新打包运行或直接运行。
