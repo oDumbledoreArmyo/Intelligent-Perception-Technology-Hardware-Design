@@ -56,28 +56,44 @@ Windows版: Python + OpenCV Haar (传统特征级联识别人脸/微笑) + MQTT
 ## 第三方资料链接
 #### 开源生态相关
 [M5Stack官网](https://www.m5stack.com/)
+
 [M5Stack：模块化硬件的艺术](https://www.bilibili.com/video/BV1eNkNBCERF/?spm_id_from=333.1387.favlist.content.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [M5Stack 全球创新大赛 2025 获奖作品集锦](https://www.bilibili.com/video/BV1G65961Epk/?spm_id_from=333.1387.favlist.content.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [DFRobot官网](https://www.dfrobot.com.cn/)
+
 [DFRobot教程资料大全](https://wiki.dfrobot.com.cn/)
+
 [DFRobot可编程机器人小车](https://www.bilibili.com/video/BV18p411f7Fq/?spm_id_from=333.1387.favlist.content.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [DF创客周刊Vol. 111 ](https://www.bilibili.com/video/BV1Qfk9YnET4/?spm_id_from=333.1387.favlist.content.click&vd_source=95cb2f19566155bb73393c4156455e36)
 
 #### 有意思的感知器和执行器相关
 [视觉类执行器：TouchDesigner花随脉搏共呼吸](https://www.bilibili.com/video/BV17gQVYNEKj?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-9shrk.1780294404371.204&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [气动类执行器：Ecomorphs气动柔性机器人](https://www.bilibili.com/video/BV1Lq4y117fh?spm_id_from=333.788.videopod.sections&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [电机类执行器：机械郁金香](https://www.bilibili.com/video/BV1dK411A7qq?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2479604-9xr68.1780295031370.210&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [电机类执行器：71个舵机交互装置](https://www.bilibili.com/video/BV1NT421k74U/?spm_id_from=333.337.search-card.all.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [电机类执行器：100个舵机交互装置](https://www.bilibili.com/video/BV1ay411z7CC/?spm_id_from=333.337.search-card.all.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [IMU类感知器：手搓云台](https://www.bilibili.com/video/BV16v411v7rb/?spm_id_from=333.337.search-card.all.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [哈士奇HuskyLens AI视觉传感器教程](https://www.bilibili.com/video/BV1gZ4y1k7n2/?spm_id_from=333.1387.favlist.content.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [记忆合金有意思的应用：基于记忆合金的电控锁](https://www.bilibili.com/video/BV1NdWmz9EUf/?spm_id_from=333.1387.favlist.content.click&vd_source=95cb2f19566155bb73393c4156455e36)
+
 [半导体制冷片有意思的应用：何同学的外卖柜](https://www.bilibili.com/video/BV1fqVh6sEaF/?spm_id_from=333.337.search-card.all.click&vd_source=95cb2f19566155bb73393c4156455e36)
 
 
 ## 课后推荐阅读
 《Arduino技术指南》-图灵程序设计丛书（又称动物书） /有电子书，系统性学习Arduino开发必读经典老书
+
 《Making Things Talk》 -Tom Igoe /通俗语言讲解交互技术与案例
+
 
 
 
