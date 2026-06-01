@@ -11,7 +11,7 @@ https://wokwi.com/projects/465152177007070209
 <img width="248" height="163" alt="image" src="https://github.com/user-attachments/assets/2e3d566c-e288-4678-9d6c-e54df7d88964" />
 
 ### （3）下载已做好的情绪识别软件：
-https://github.com/oDumbledoreArmyo/Intelligent-Perception-Technology-Hardware-Design/tree/main
+
 > Windows电脑使用：情绪识别软件/youhappyIhappy-windows.zip
 
 > MacOS电脑使用：情绪识别软件/你开心所以我开心实验软件-macos.zip
