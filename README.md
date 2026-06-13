@@ -53,7 +53,10 @@ MacOS版： Python + Google MediaPipe (AI三维人脸网格) + OpenCV (本地图
 
 Windows版: Python + OpenCV Haar (传统特征级联识别人脸/微笑) + MQTT
 
-如需修改源码，请修改brain_new.py文件，Mac需要重新打包运行或直接运行python文件；windows可以依旧使用bat文件运行，不需要打包。
+如需修改源码，请修改brain_new.py文件，Mac需要重新打包运行或安装python环境，直接运行python文件；windows可以依旧使用bat文件运行，不需要打包。
+
+## 实验2：自己写一个“心情红绿灯”原型
+作为参考答案的wokwi链接将在课后于此处更新。
 
 ## 第三方资料链接
 #### 开源生态相关
